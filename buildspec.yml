@@ -17,5 +17,3 @@ phases:
 artifacts:
   files:
     - "**/*"
-   nodejs_artifacts:
-      base-directory: /home/ubuntu/nodebackendpipeline
