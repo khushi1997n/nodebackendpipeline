@@ -1,5 +1,5 @@
 #!/bin/bash
 set -e
-cd /home/ubuntu/node-express-realworld-example-app
+cd /home/ubuntu/nodebackendpipeline
 npm install
 npm run build
