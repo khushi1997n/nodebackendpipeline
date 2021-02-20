@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/node-express-realworld-example-app
+    destination: /home/ubuntu/nodebackendpipeline
     overwrite: true
 hooks:
   BeforeInstall:
