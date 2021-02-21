@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: "npm",
-    cwd: '/home/ubuntu/node-express-realworld-exaample-app',
+    cwd: '/home/ubuntu/node-express-realworld-example-app',
     script: "npm",
     args: 'start',
     watch: true,
